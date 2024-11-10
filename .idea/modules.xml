@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../comadre/.idea/comadre.iml" filepath="$PROJECT_DIR$/../comadre/.idea/comadre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../commander/.idea/commander.iml" filepath="$PROJECT_DIR$/../commander/.idea/commander.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jamgoline.iml" filepath="$PROJECT_DIR$/.idea/jamgoline.iml" />
+    </modules>
+  </component>
+</project>

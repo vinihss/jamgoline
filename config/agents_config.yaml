@@ -1,0 +1,13 @@
+agents:
+  - template: LoggerAgent
+    name: CustomLoggerAgent
+    topics: ["logging"]
+
+  - template: AnalyticsAgent
+    name: CustomAnalyticsAgent
+    topics: ["analytics"]
+
+pipeline:
+  sequence:
+    - CustomLoggerAgent
+    - CustomAnalyticsAgent
